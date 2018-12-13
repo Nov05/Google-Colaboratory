@@ -1,0 +1,395 @@
+﻿drive/My Drive/colab/densenet201_e87.pth
+g Loss: 0.29, Accuracy: 92.05%, Runtime: 26.71
+Accuracy: 23.41%, Runtime: 375.55
+Epoch: 2/20, Training Loss: 2.65, Testing Loss: 1.91, Accuracy: 57.94%, Runtime: 39.84
+Epoch: 3/20, Training Loss: 1.66, Testing Loss: 1.57, Accuracy: 58.58%, Runtime: 39.82
+Epoch: 4/20, Training Loss: 1.30, Testing Loss: 1.41, Accuracy: 59.23%, Runtime: 39.77
+Epoch: 5/20, Training Loss: 1.07, Testing Loss: 0.93, Accuracy: 75.51%, Runtime: 39.94
+Epoch: 6/20, Training Loss: 0.94, Testing Loss: 0.89, Accuracy: 77.87%, Runtime: 39.89
+Epoch: 7/20, Training Loss: 0.85, Testing Loss: 0.78, Accuracy: 79.04%, Runtime: 39.79
+Epoch: 8/20, Training Loss: 0.79, Testing Loss: 0.79, Accuracy: 79.32%, Runtime: 39.87
+Epoch: 9/20, Training Loss: 0.79, Testing Loss: 0.70, Accuracy: 80.59%, Runtime: 39.86
+Epoch: 10/20, Training Loss: 0.76, Testing Loss: 0.73, Accuracy: 81.86%, Runtime: 39.88
+Epoch: 11/20, Training Loss: 0.69, Testing Loss: 0.76, Accuracy: 79.23%, Runtime: 39.78
+Epoch: 12/20, Training Loss: 0.70, Testing Loss: 0.62, Accuracy: 82.47%, Runtime: 39.83
+Epoch: 13/20, Training Loss: 0.62, Testing Loss: 0.65, Accuracy: 83.43%, Runtime: 39.94
+Epoch: 14/20, Training Loss: 0.61, Testing Loss: 0.65, Accuracy: 81.51%, Runtime: 39.77
+Epoch: 15/20, Training Loss: 0.62, Testing Loss: 0.59, Accuracy: 84.22%, Runtime: 39.79
+Epoch: 16/20, Training Loss: 0.58, Testing Loss: 0.62, Accuracy: 83.72%, Runtime: 39.77
+Epoch: 17/20, Training Loss: 0.58, Testing Loss: 0.68, Accuracy: 82.75%, Runtime: 39.72
+Epoch: 18/20, Training Loss: 0.58, Testing Loss: 0.63, Accuracy: 83.52%, Runtime: 39.90
+Epoch: 19/20, Training Loss: 0.53, Testing Loss: 0.57, Accuracy: 83.90%, Runtime: 39.73
+Checkpoint drive/My Drive/colab/densenet201_e20.pth saved.
+Epoch: 20/20, Training Loss: 0.56, Testing Loss: 0.59, Accuracy: 83.66%, Runtime: 39.87
+Training started at 2018-12-12 04:30:14.438823, ended at 2018-12-12 06:38:31.496670
+
+
+drive/My Drive/colab/densenet201_e20.pth
+Total accuracy:                      767/818             93.77%
+Accuracy per class: 
+1   pink primrose                      7/8               87.50%
+10  globe thistle                      4/4              100.00%
+100 blanket flower                     6/6              100.00%
+101 trumpet creeper                    4/5               80.00%
+102 blackberry lily                    6/6              100.00%
+11  snapdragon                         9/10              90.00%
+12  colt's foot                        5/5              100.00%
+13  king protea                        5/5              100.00%
+14  spear thistle                      1/1              100.00%
+15  yellow iris                        7/7              100.00%
+16  globe-flower                       2/2              100.00%
+17  purple coneflower                 16/16             100.00%
+18  peruvian lily                      9/11              81.82%
+19  balloon flower                     3/4               75.00%
+2   hard-leaved pocket orchid          6/6              100.00%
+20  giant white arum lily              6/7               85.71%
+21  fire lily                          4/4              100.00%
+22  pincushion flower                  7/8               87.50%
+23  fritillary                        12/12             100.00%
+24  red ginger                         5/5              100.00%
+25  grape hyacinth                     2/2              100.00%
+26  corn poppy                         3/3              100.00%
+27  prince of wales feathers           1/1              100.00%
+28  stemless gentian                   5/5              100.00%
+29  artichoke                          7/7              100.00%
+3   canterbury bells                   1/2               50.00%
+30  sweet william                      7/10              70.00%
+31  carnation                          1/2               50.00%
+32  garden phlox                       3/3              100.00%
+33  love in the mist                   5/7               71.43%
+34  mexican aster                      7/7              100.00%
+35  alpine sea holly                   4/4              100.00%
+36  ruby-lipped cattleya               5/6               83.33%
+37  cape flower                        8/8              100.00%
+38  great masterwort                   4/4              100.00%
+39  siam tulip                         3/3              100.00%
+4   sweet pea                          2/6               33.33%
+40  lenten rose                        4/5               80.00%
+41  barbeton daisy                    16/16             100.00%
+42  daffodil                           6/6              100.00%
+43  sword lily                        13/14              92.86%
+44  poinsettia                         9/9              100.00%
+45  bolero deep blue                   3/4               75.00%
+46  wallflower                        18/18             100.00%
+47  marigold                           3/3              100.00%
+48  buttercup                          8/9               88.89%
+49  oxeye daisy                        8/8              100.00%
+5   english marigold                   6/7               85.71%
+50  common dandelion                  10/11              90.91%
+51  petunia                           26/28              92.86%
+52  wild pansy                        10/10             100.00%
+53  primula                            5/9               55.56%
+54  sunflower                         10/10             100.00%
+55  pelargonium                        8/8              100.00%
+56  bishop of llandaff                 9/9              100.00%
+57  gaura                              6/6              100.00%
+58  geranium                          14/14             100.00%
+59  orange dahlia                      4/4              100.00%
+6   tiger lily                         1/1              100.00%
+60  pink-yellow dahlia                14/14             100.00%
+61  cautleya spicata                   6/6              100.00%
+62  japanese anemone                   3/3              100.00%
+63  black-eyed susan                   8/8              100.00%
+64  silverbush                         5/5              100.00%
+65  californian poppy                  7/7              100.00%
+66  osteospermum                       6/6              100.00%
+67  spring crocus                      2/2              100.00%
+68  bearded iris                       8/8              100.00%
+69  windflower                         5/5              100.00%
+7   moon orchid                        0/1                0.00%
+70  tree poppy                         7/7              100.00%
+71  gazania                            4/5               80.00%
+72  azalea                             7/8               87.50%
+73  water lily                        19/19             100.00%
+74  rose                              14/15              93.33%
+75  thorn apple                       12/12             100.00%
+76  morning glory                     18/20              90.00%
+77  passion flower                    21/21             100.00%
+78  lotus lotus                       11/11             100.00%
+79  toad lily                          4/4              100.00%
+8   bird of paradise                   5/5              100.00%
+80  anthurium                         11/12              91.67%
+81  frangipani                        18/18             100.00%
+82  clematis                          12/13              92.31%
+83  hibiscus                          11/13              84.62%
+84  columbine                          8/10              80.00%
+85  desert-rose                        5/5              100.00%
+86  tree mallow                        4/5               80.00%
+87  magnolia                           6/6              100.00%
+88  cyclamen                          25/25             100.00%
+89  watercress                        16/16             100.00%
+9   monkshood                          3/3              100.00%
+90  canna lily                         1/2               50.00%
+91  hippeastrum                        8/9               88.89%
+92  bee balm                           2/2              100.00%
+93  ball moss                          5/6               83.33%
+94  foxglove                          13/14              92.86%
+95  bougainvillea                     13/13             100.00%
+96  camellia                           9/10              90.00%
+97  mallow                             7/7              100.00%
+98  mexican petunia                   10/10             100.00%
+99  bromelia                           5/6               83.33%
+Testing started at 2018-12-12 06:38:32.920029, ended at 2018-12-12 06:43:55.098871
+
+
+Epoch: 21/30, Training Loss: 0.61, Testing Loss: 0.56, Accuracy: 84.11%, Runtime: 39.86
+Epoch: 22/30, Training Loss: 0.53, Testing Loss: 0.61, Accuracy: 83.24%, Runtime: 39.89
+Epoch: 23/30, Training Loss: 0.51, Testing Loss: 0.62, Accuracy: 83.03%, Runtime: 39.92
+Epoch: 24/30, Training Loss: 0.56, Testing Loss: 0.62, Accuracy: 82.63%, Runtime: 39.92
+Epoch: 25/30, Training Loss: 0.57, Testing Loss: 0.60, Accuracy: 85.47%, Runtime: 39.97
+Epoch: 26/30, Training Loss: 0.57, Testing Loss: 0.47, Accuracy: 85.85%, Runtime: 39.89
+Epoch: 27/30, Training Loss: 0.52, Testing Loss: 0.58, Accuracy: 85.17%, Runtime: 39.91
+Epoch: 28/30, Training Loss: 0.58, Testing Loss: 0.52, Accuracy: 85.67%, Runtime: 39.94
+Epoch: 29/30, Training Loss: 0.55, Testing Loss: 0.61, Accuracy: 83.70%, Runtime: 39.96
+Checkpoint drive/My Drive/colab/densenet201_e30.pth saved.
+Epoch: 30/30, Training Loss: 0.50, Testing Loss: 0.63, Accuracy: 83.03%, Runtime: 40.01
+Training started at 2018-12-12 07:02:25.410569, ended at 2018-12-12 07:47:05.149515
+
+
+drive/My Drive/colab/densenet201_e30.pth
+Total accuracy:                      778/818             95.11%
+Testing started at 2018-12-12 07:47:06.565141, ended at 2018-12-12 07:47:33.193875
+
+
+Epoch: 21/30, Training Loss: 0.52, Testing Loss: 0.38, Accuracy: 88.24%, Runtime: 26.66
+Checkpoint drive/My Drive/colab/densenet201_e22.pth saved.
+Epoch: 22/30, Training Loss: 0.42, Testing Loss: 0.37, Accuracy: 90.16%, Runtime: 26.52
+Epoch: 23/30, Training Loss: 0.38, Testing Loss: 0.42, Accuracy: 88.03%, Runtime: 26.61
+Epoch: 24/30, Training Loss: 0.38, Testing Loss: 0.43, Accuracy: 88.42%, Runtime: 26.57
+Epoch: 25/30, Training Loss: 0.39, Testing Loss: 0.36, Accuracy: 89.23%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e26.pth saved.
+Epoch: 26/30, Training Loss: 0.37, Testing Loss: 0.37, Accuracy: 90.87%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e27.pth saved.
+Epoch: 27/30, Training Loss: 0.35, Testing Loss: 0.32, Accuracy: 91.26%, Runtime: 26.71
+Epoch: 28/30, Training Loss: 0.38, Testing Loss: 0.44, Accuracy: 88.66%, Runtime: 26.73
+Epoch: 29/30, Training Loss: 0.34, Testing Loss: 0.39, Accuracy: 87.53%, Runtime: 26.63
+Checkpoint drive/My Drive/colab/densenet201_e30.pth saved.
+Epoch: 30/30, Training Loss: 0.35, Testing Loss: 0.30, Accuracy: 90.73%, Runtime: 26.99
+Training started at 2018-12-12 07:52:58.528151, ended at 2018-12-12 08:37:44.890450
+
+
+drive/My Drive/colab/densenet201_e30.pth
+Total accuracy:                      781/818             95.48%
+Testing started at 2018-12-12 08:37:46.253087, ended at 2018-12-12 08:38:12.782031
+
+
+drive/My Drive/colab/densenet201_e32.pth
+Total accuracy:                      780/818             95.35%
+drive/My Drive/colab/densenet201_e36.pth
+Total accuracy:                      784/818             95.84%
+drive/My Drive/colab/densenet201_e37.pth
+Total accuracy:                      787/818             96.21%
+Epoch: 41/50, Training Loss: 0.35, Testing Loss: 0.37, Accuracy: 89.31%, Runtime: 26.70
+Epoch: 42/50, Training Loss: 0.35, Testing Loss: 0.41, Accuracy: 88.88%, Runtime: 26.63
+Checkpoint drive/My Drive/colab/densenet201_e43.pth saved.
+Epoch: 43/50, Training Loss: 0.37, Testing Loss: 0.37, Accuracy: 90.02%, Runtime: 26.54
+Epoch: 44/50, Training Loss: 0.35, Testing Loss: 0.43, Accuracy: 87.92%, Runtime: 26.62
+Checkpoint drive/My Drive/colab/densenet201_e45.pth saved.
+Epoch: 45/50, Training Loss: 0.36, Testing Loss: 0.35, Accuracy: 90.12%, Runtime: 26.55
+Epoch: 46/50, Training Loss: 0.34, Testing Loss: 0.44, Accuracy: 87.99%, Runtime: 26.46
+Epoch: 47/50, Training Loss: 0.33, Testing Loss: 0.46, Accuracy: 87.85%, Runtime: 26.83
+Epoch: 48/50, Training Loss: 0.34, Testing Loss: 0.39, Accuracy: 89.41%, Runtime: 26.76
+Epoch: 49/50, Training Loss: 0.33, Testing Loss: 0.42, Accuracy: 88.70%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e50.pth saved.
+Epoch: 50/50, Training Loss: 0.33, Testing Loss: 0.32, Accuracy: 89.80%, Runtime: 26.61
+Training started at 2018-12-12 09:12:52.987599, ended at 2018-12-12 09:57:33.403479
+
+
+drive/My Drive/colab/densenet201_e43.pth
+Total accuracy:                      782/818             95.60%
+drive/My Drive/colab/densenet201_e45.pth
+Total accuracy:                      794/818             97.07%
+drive/My Drive/colab/densenet201_e50.pth
+Total accuracy:                      794/818             97.07%
+Epoch: 51/60, Training Loss: 0.31, Testing Loss: 0.44, Accuracy: 88.42%, Runtime: 26.66
+Checkpoint drive/My Drive/colab/densenet201_e52.pth saved.
+Epoch: 52/60, Training Loss: 0.31, Testing Loss: 0.33, Accuracy: 90.16%, Runtime: 26.69
+Epoch: 53/60, Training Loss: 0.28, Testing Loss: 0.36, Accuracy: 90.06%, Runtime: 26.79
+Epoch: 54/60, Training Loss: 0.28, Testing Loss: 0.40, Accuracy: 89.20%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e55.pth saved.
+Epoch: 55/60, Training Loss: 0.29, Testing Loss: 0.34, Accuracy: 90.77%, Runtime: 26.75
+Checkpoint drive/My Drive/colab/densenet201_e56.pth saved.
+Epoch: 56/60, Training Loss: 0.27, Testing Loss: 0.26, Accuracy: 92.29%, Runtime: 26.76
+Epoch: 58/60, Training Loss: 0.25, Testing Loss: 0.41, Accuracy: 89.91%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e59.pth saved.
+Epoch: 59/60, Training Loss: 0.25, Testing Loss: 0.29, Accuracy: 93.32%, Runtime: 26.65
+Checkpoint drive/My Drive/colab/densenet201_e60.pth saved.
+Epoch: 60/60, Training Loss: 0.27, Testing Loss: 0.36, Accuracy: 89.55%, Runtime: 26.67
+Training started at 2018-12-12 10:07:21.127517, ended at 2018-12-12 10:52:09.158806
+
+
+drive/My Drive/colab/densenet201_e52.pth
+Total accuracy:                      794/818             97.07%
+drive/My Drive/colab/densenet201_e55.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e56.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e59.pth
+Total accuracy:                      795/818             97.19%
+drive/My Drive/colab/densenet201_e60.pth
+Total accuracy:                      797/818             97.43%
+Checkpoint drive/My Drive/colab/densenet201_e61.pth saved.
+Epoch: 61/70, Training Loss: 0.29, Testing Loss: 0.35, Accuracy: 90.59%, Runtime: 26.89
+Checkpoint drive/My Drive/colab/densenet201_e62.pth saved.
+Epoch: 62/70, Training Loss: 0.25, Testing Loss: 0.30, Accuracy: 93.18%, Runtime: 26.51
+Epoch: 63/70, Training Loss: 0.26, Testing Loss: 0.31, Accuracy: 92.61%, Runtime: 26.71
+Epoch: 64/70, Training Loss: 0.26, Testing Loss: 0.37, Accuracy: 90.73%, Runtime: 26.62
+Epoch: 65/70, Training Loss: 0.25, Testing Loss: 0.35, Accuracy: 90.98%, Runtime: 26.50
+Epoch: 66/70, Training Loss: 0.28, Testing Loss: 0.26, Accuracy: 92.47%, Runtime: 26.56
+Epoch: 68/70, Training Loss: 0.25, Testing Loss: 0.38, Accuracy: 88.81%, Runtime: 26.73
+Epoch: 69/70, Training Loss: 0.25, Testing Loss: 0.34, Accuracy: 91.51%, Runtime: 26.68
+Checkpoint drive/My Drive/colab/densenet201_e70.pth saved.
+Epoch: 70/70, Training Loss: 0.27, Testing Loss: 0.29, Accuracy: 91.87%, Runtime: 26.61
+Training started at 2018-12-12 11:09:47.346553, ended at 2018-12-12 11:54:34.531355
+
+
+drive/My Drive/colab/densenet201_e61.pth
+Total accuracy:                      795/818             97.19%
+drive/My Drive/colab/densenet201_e62.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e70.pth
+Total accuracy:                      799/818             97.68%
+Epoch: 71/80, Training Loss: 0.26, Testing Loss: 0.39, Accuracy: 89.55%, Runtime: 26.83
+Checkpoint drive/My Drive/colab/densenet201_e72.pth saved.
+Epoch: 72/80, Training Loss: 0.26, Testing Loss: 0.29, Accuracy: 92.61%, Runtime: 26.38
+Epoch: 73/80, Training Loss: 0.26, Testing Loss: 0.31, Accuracy: 90.27%, Runtime: 26.86
+Epoch: 74/80, Training Loss: 0.25, Testing Loss: 0.33, Accuracy: 92.19%, Runtime: 26.95
+Epoch: 75/80, Training Loss: 0.26, Testing Loss: 0.36, Accuracy: 90.37%, Runtime: 26.72
+Epoch: 76/80, Training Loss: 0.26, Testing Loss: 0.37, Accuracy: 90.02%, Runtime: 26.72
+Epoch: 77/80, Training Loss: 0.26, Testing Loss: 0.45, Accuracy: 87.85%, Runtime: 26.79
+Epoch: 78/80, Training Loss: 0.26, Testing Loss: 0.36, Accuracy: 90.23%, Runtime: 26.85
+Epoch: 79/80, Training Loss: 0.27, Testing Loss: 0.28, Accuracy: 90.41%, Runtime: 26.74
+Checkpoint drive/My Drive/colab/densenet201_e80.pth saved.
+Epoch: 80/80, Training Loss: 0.24, Testing Loss: 0.30, Accuracy: 90.83%, Runtime: 26.83
+Training started at 2018-12-12 12:37:12.698670, ended at 2018-12-12 13:22:10.227199
+
+
+drive/My Drive/colab/densenet201_e72.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e80.pth
+Total accuracy:                      796/818             97.31%
+Checkpoint drive/My Drive/colab/densenet201_e81.pth saved.
+Epoch: 81/90, Training Loss: 0.26, Testing Loss: 0.31, Accuracy: 90.65%, Runtime: 26.67
+Epoch: 82/90, Training Loss: 0.27, Testing Loss: 0.40, Accuracy: 90.45%, Runtime: 26.89
+Epoch: 83/90, Training Loss: 0.26, Testing Loss: 0.40, Accuracy: 89.66%, Runtime: 26.80
+Epoch: 84/90, Training Loss: 0.26, Testing Loss: 0.32, Accuracy: 90.37%, Runtime: 26.87
+Checkpoint drive/My Drive/colab/densenet201_e85.pth saved.
+Epoch: 85/90, Training Loss: 0.26, Testing Loss: 0.35, Accuracy: 90.87%, Runtime: 26.78
+Checkpoint drive/My Drive/colab/densenet201_e86.pth saved.
+Epoch: 86/90, Training Loss: 0.26, Testing Loss: 0.27, Accuracy: 92.19%, Runtime: 26.76
+Epoch: 87/90, Training Loss: 0.27, Testing Loss: 0.32, Accuracy: 90.59%, Runtime: 26.82
+Epoch: 88/90, Training Loss: 0.27, Testing Loss: 0.34, Accuracy: 89.91%, Runtime: 26.75
+Epoch: 89/90, Training Loss: 0.25, Testing Loss: 0.35, Accuracy: 90.12%, Runtime: 26.64
+Checkpoint drive/My Drive/colab/densenet201_e90.pth saved.
+Epoch: 90/90, Training Loss: 0.24, Testing Loss: 0.31, Accuracy: 92.15%, Runtime: 26.67
+Training started at 2018-12-12 13:32:18.111389, ended at 2018-12-12 14:17:15.469809
+
+
+2018-12-11_densenet201_sgd.ipynb
+
+
+drive/My Drive/colab/densenet201_e81.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e85.pth
+Total accuracy:                      798/818             97.56%
+drive/My Drive/colab/densenet201_e86.pth
+Total accuracy:                      798/818             97.56%
+drive/My Drive/colab/densenet201_e90.pth
+Total accuracy:                      797/818             97.43%
+Checkpoint drive/My Drive/colab/densenet201_e86.pth saved.
+Epoch: 86/90, Training Loss: 0.27, Testing Loss: 0.21, Accuracy: 94.71%, Runtime: 250.55
+Epoch: 87/90, Training Loss: 0.29, Testing Loss: 0.26, Accuracy: 93.14%, Runtime: 27.33
+Epoch: 88/90, Training Loss: 0.27, Testing Loss: 0.23, Accuracy: 94.18%, Runtime: 27.59
+Epoch: 89/90, Training Loss: 0.28, Testing Loss: 0.29, Accuracy: 92.15%, Runtime: 27.54
+Checkpoint drive/My Drive/colab/densenet201_e90.pth saved.
+Epoch: 90/90, Training Loss: 0.26, Testing Loss: 0.24, Accuracy: 93.29%, Runtime: 27.42
+Training started at 2018-12-12 20:41:19.422543, ended at 2018-12-12 21:41:13.523050
+
+
+drive/My Drive/colab/densenet201_e86pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e86.pth
+Total accuracy:                      801/818             97.92%
+drive/My Drive/colab/densenet201_e90.pth
+Total accuracy:                      797/818             97.43%
+Checkpoint drive/My Drive/colab/densenet201_e87.pth saved.
+Epoch: 87/90, Training Loss: 0.26, Testing Loss: 0.26, Accuracy: 91.97%, Runtime: 27.20
+Checkpoint drive/My Drive/colab/densenet201_e88.pth saved.
+Epoch: 88/90, Training Loss: 0.28, Testing Loss: 0.22, Accuracy: 94.32%, Runtime: 27.14
+Epoch: 89/90, Training Loss: 0.28, Testing Loss: 0.24, Accuracy: 93.43%, Runtime: 27.02
+Checkpoint drive/My Drive/colab/densenet201_e90.pth saved.
+Epoch: 90/90, Training Loss: 0.30, Testing Loss: 0.25, Accuracy: 92.93%, Runtime: 26.95
+Training started at 2018-12-12 21:56:41.304781, ended at 2018-12-12 22:14:45.548963
+
+
+drive/My Drive/colab/densenet201_e87.pth
+Total accuracy:                      795/818             97.19%
+drive/My Drive/colab/densenet201_e88.pth
+Total accuracy:                      799/818             97.68%
+drive/My Drive/colab/densenet201_e90.pth
+Total accuracy:                      797/818             97.43%
+Checkpoint drive/My Drive/colab/densenet201_e87.pth saved.
+Epoch: 87/90, Training Loss: 0.27, Testing Loss: 0.22, Accuracy: 94.60%, Runtime: 26.99
+Epoch: 88/90, Training Loss: 0.29, Testing Loss: 0.24, Accuracy: 93.89%, Runtime: 26.99
+Epoch: 89/90, Training Loss: 0.25, Testing Loss: 0.25, Accuracy: 92.82%, Runtime: 27.04
+Checkpoint drive/My Drive/colab/densenet201_e90.pth saved.
+Epoch: 90/90, Training Loss: 0.27, Testing Loss: 0.20, Accuracy: 94.71%, Runtime: 27.06
+Training started at 2018-12-12 22:44:38.022230, ended at 2018-12-12 23:02:38.404311
+
+
+Total accuracy:                      798/818             97.56%
+drive/My Drive/colab/densenet201_e90.pth
+Total accuracy:                      800/818             97.80%
+Checkpoint drive/My Drive/colab/densenet201_e91.pth saved.
+Epoch: 91/95, Training Loss: 0.25, Testing Loss: 0.26, Accuracy: 93.04%, Runtime: 27.10
+Epoch: 92/95, Training Loss: 0.26, Testing Loss: 0.29, Accuracy: 92.47%, Runtime: 27.01
+Checkpoint drive/My Drive/colab/densenet201_e93.pth saved.
+Epoch: 93/95, Training Loss: 0.30, Testing Loss: 0.25, Accuracy: 93.39%, Runtime: 27.20
+Checkpoint drive/My Drive/colab/densenet201_e94.pth saved.
+Epoch: 94/95, Training Loss: 0.27, Testing Loss: 0.20, Accuracy: 94.14%, Runtime: 26.97
+Checkpoint drive/My Drive/colab/densenet201_e95.pth saved.
+Epoch: 95/95, Training Loss: 0.28, Testing Loss: 0.26, Accuracy: 93.71%, Runtime: 26.98
+Training started at 2018-12-12 23:13:35.225023, ended at 2018-12-12 23:36:10.897018
+
+
+drive/My Drive/colab/densenet201_e91.pth
+Total accuracy:                      800/818             97.80%
+drive/My Drive/colab/densenet201_e93.pth
+Total accuracy:                      801/818             97.92%
+drive/My Drive/colab/densenet201_e94.pth
+Total accuracy:                      798/818             97.56%
+drive/My Drive/colab/densenet201_e95.pth
+Total accuracy:                      798/818             97.56%
+Checkpoint drive/My Drive/colab/densenet201_e96.pth saved.
+Epoch: 96/100, Training Loss: 0.28, Testing Loss: 0.20, Accuracy: 94.74%, Runtime: 27.37
+Epoch: 97/100, Training Loss: 0.27, Testing Loss: 0.21, Accuracy: 94.56%, Runtime: 26.99
+Epoch: 98/100, Training Loss: 0.25, Testing Loss: 0.19, Accuracy: 94.42%, Runtime: 27.21
+Checkpoint drive/My Drive/colab/densenet201_e99.pth saved.
+Epoch: 99/100, Training Loss: 0.27, Testing Loss: 0.20, Accuracy: 94.89%, Runtime: 27.21
+Checkpoint drive/My Drive/colab/densenet201_e100.pth saved.
+Epoch: 100/100, Training Loss: 0.27, Testing Loss: 0.19, Accuracy: 95.03%, Runtime: 26.89
+Training started at 2018-12-13 00:02:02.165384, ended at 2018-12-13 00:24:38.968231
+
+
+drive/My Drive/colab/densenet201_e96.pth
+Total accuracy:                      795/818             97.19%
+drive/My Drive/colab/densenet201_e99.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e100.pth
+Total accuracy:                      799/818             97.68%
+drive/My Drive/colab/densenet201_e93.pth
+Total accuracy:                      801/818             97.92%
+Checkpoint drive/My Drive/colab/densenet201_e94.pth saved.
+Epoch: 94/96, Training Loss: 0.28, Testing Loss: 0.22, Accuracy: 94.32%, Runtime: 26.38
+Epoch: 95/96, Training Loss: 0.27, Testing Loss: 0.22, Accuracy: 92.86%, Runtime: 26.30
+Checkpoint drive/My Drive/colab/densenet201_e96.pth saved.
+Epoch: 96/96, Training Loss: 0.29, Testing Loss: 0.27, Accuracy: 92.90%, Runtime: 26.33
+Training started at 2018-12-13 01:29:18.748563, ended at 2018-12-13 01:42:31.165864
+
+
+drive/My Drive/colab/densenet201_e94.pth
+Total accuracy:                      800/818             97.80%
+drive/My Drive/colab/densenet201_e96.pth
+Total accuracy:                      797/818             97.43%
+drive/My Drive/colab/densenet201_e93.pth
+Total accuracy:                      801/818             97.92%
