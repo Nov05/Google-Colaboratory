@@ -1,0 +1,140 @@
+Checkpoint drive/My Drive/colab/densenet169_e1.pth saved.
+Epoch: 1/5, Training Loss: 2.13, Testing Loss: 0.50, Accuracy: 90.51%, Runtime: 189.37
+Checkpoint drive/My Drive/colab/densenet169_e2.pth saved.
+Epoch: 2/5, Training Loss: 0.43, Testing Loss: 0.22, Accuracy: 95.82%, Runtime: 189.67
+Checkpoint drive/My Drive/colab/densenet169_e3.pth saved.
+Epoch: 3/5, Training Loss: 0.21, Testing Loss: 0.08, Accuracy: 98.91%, Runtime: 189.90
+Checkpoint drive/My Drive/colab/densenet169_e4.pth saved.
+Epoch: 4/5, Training Loss: 0.12, Testing Loss: 0.05, Accuracy: 99.46%, Runtime: 189.76
+Checkpoint drive/My Drive/colab/densenet169_e5.pth saved.
+Epoch: 5/5, Training Loss: 0.09, Testing Loss: 0.03, Accuracy: 99.73%, Runtime: 188.55
+Training started at 2018-12-16 12:10:45.466440, ended at 2018-12-16 13:36:28.766137
+Total accuracy:                      608/998             60.92%
+Accuracy per class: 
+1   pink primrose                      6/10              60.00%
+10  globe thistle                      2/10              20.00%
+100 blanket flower                     9/10              90.00%
+101 trumpet creeper                    8/10              80.00%
+102 blackberry lily                    9/10              90.00%
+11  snapdragon                         6/10              60.00%
+12  colt's foot                        6/9               66.67%
+13  king protea                        8/10              80.00%
+14  spear thistle                     10/10             100.00%
+15  yellow iris                        5/10              50.00%
+16  globe-flower                       6/10              60.00%
+17  purple coneflower                  7/10              70.00%
+18  peruvian lily                      9/10              90.00%
+19  balloon flower                     4/10              40.00%
+2   hard-leaved pocket orchid          8/10              80.00%
+20  giant white arum lily              7/10              70.00%
+21  fire lily                          5/10              50.00%
+22  pincushion flower                  8/10              80.00%
+23  fritillary                         8/10              80.00%
+24  red ginger                         8/10              80.00%
+25  grape hyacinth                     9/9              100.00%
+26  corn poppy                        10/10             100.00%
+27  prince of wales feathers           5/9               55.56%
+28  stemless gentian                  10/10             100.00%
+29  artichoke                          9/9              100.00%
+3   canterbury bells                   3/10              30.00%
+30  sweet william                      5/10              50.00%
+31  carnation                         10/10             100.00%
+32  garden phlox                       5/10              50.00%
+33  love in the mist                   7/8               87.50%
+34  mexican aster                      6/10              60.00%
+35  alpine sea holly                   9/9              100.00%
+36  ruby-lipped cattleya               8/10              80.00%
+37  cape flower                        0/10               0.00%
+38  great masterwort                   7/10              70.00%
+39  siam tulip                         1/10              10.00%
+4   sweet pea                          3/9               33.33%
+40  lenten rose                        5/10              50.00%
+41  barbeton daisy                     8/10              80.00%
+42  daffodil                           4/10              40.00%
+43  sword lily                         4/10              40.00%
+44  poinsettia                         9/10              90.00%
+45  bolero deep blue                   7/10              70.00%
+46  wallflower                         4/10              40.00%
+47  marigold                           6/8               75.00%
+48  buttercup                          5/10              50.00%
+49  oxeye daisy                        7/10              70.00%
+5   english marigold                   8/10              80.00%
+50  common dandelion                   8/10              80.00%
+51  petunia                            6/10              60.00%
+52  wild pansy                         8/10              80.00%
+53  primula                            4/10              40.00%
+54  sunflower                          8/9               88.89%
+55  pelargonium                        0/9                0.00%
+56  bishop of llandaff                 9/10              90.00%
+57  gaura                              4/9               44.44%
+58  geranium                           0/9                0.00%
+59  orange dahlia                      0/10               0.00%
+6   tiger lily                         6/10              60.00%
+60  pink-yellow dahlia                 0/10               0.00%
+61  cautleya spicata                   8/10              80.00%
+62  japanese anemone                   8/10              80.00%
+63  black-eyed susan                   9/10              90.00%
+64  silverbush                         5/10              50.00%
+65  californian poppy                  7/10              70.00%
+66  osteospermum                       6/10              60.00%
+67  spring crocus                      6/10              60.00%
+68  bearded iris                       3/9               33.33%
+69  windflower                         1/9               11.11%
+7   moon orchid                        6/10              60.00%
+70  tree poppy                         8/10              80.00%
+71  gazania                            6/10              60.00%
+72  azalea                             5/10              50.00%
+73  water lily                         9/10              90.00%
+74  rose                               8/10              80.00%
+75  thorn apple                        5/10              50.00%
+76  morning glory                      9/10              90.00%
+77  passion flower                    10/10             100.00%
+78  lotus lotus                        5/10              50.00%
+79  toad lily                         10/10             100.00%
+8   bird of paradise                  10/10             100.00%
+80  anthurium                          8/10              80.00%
+81  frangipani                         6/9               66.67%
+82  clematis                           7/10              70.00%
+83  hibiscus                           6/10              60.00%
+84  columbine                          6/10              60.00%
+85  desert-rose                        4/10              40.00%
+86  tree mallow                        1/9               11.11%
+87  magnolia                           1/10              10.00%
+88  cyclamen                           9/10              90.00%
+89  watercress                         0/10               0.00%
+9   monkshood                          7/10              70.00%
+90  canna lily                         5/10              50.00%
+91  hippeastrum                        7/10              70.00%
+92  bee balm                           5/9               55.56%
+93  ball moss                          0/10               0.00%
+94  foxglove                           8/9               88.89%
+95  bougainvillea                      5/10              50.00%
+96  camellia                           6/9               66.67%
+97  mallow                             0/10               0.00%
+98  mexican petunia                    3/9               33.33%
+99  bromelia                           4/10              40.00%
+Testing started at 2018-12-16 17:10:46.017773, ended at 2018-12-16 17:20:22.184163
+drive/My Drive/colab/densenet169_e1.pth
+Total accuracy:                      509/998             51.00%
+drive/My Drive/colab/densenet169_e2.pth
+Total accuracy:                      538/998             53.91%
+drive/My Drive/colab/densenet169_e3.pth
+Total accuracy:                      594/998             59.52%
+drive/My Drive/colab/densenet169_e4.pth
+Total accuracy:                      594/998             59.52%
+Epoch: 6/10, Training Loss: 0.08, Testing Loss: 0.03, Accuracy: 99.64%, Runtime: 190.78
+Checkpoint drive/My Drive/colab/densenet169_e7.pth saved.
+Epoch: 7/10, Training Loss: 0.06, Testing Loss: 0.02, Accuracy: 99.95%, Runtime: 190.95
+Epoch: 8/10, Training Loss: 0.05, Testing Loss: 0.02, Accuracy: 99.92%, Runtime: 190.13
+Checkpoint drive/My Drive/colab/densenet169_e9.pth saved.
+Epoch: 9/10, Training Loss: 0.03, Testing Loss: 0.01, Accuracy: 99.98%, Runtime: 190.21
+Epoch: 10/10, Training Loss: 0.03, Testing Loss: 0.01, Accuracy: 99.95%, Runtime: 190.97
+Training started at 2018-12-16 17:37:37.250052, ended at 2018-12-16 18:09:35.192054
+drive/My Drive/colab/densenet169_e7.pth
+Total accuracy:                      603/998             60.42%
+drive/My Drive/colab/densenet169_e7.pth
+Total accuracy:                      603/998             60.42%
+drive/My Drive/colab/densenet169_e9.pth
+Total accuracy:                      593/998             59.42%
+drive/My Drive/colab/densenet169_e10.pth
+Total accuracy:                      609/998             61.02%
